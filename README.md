@@ -1,16 +1,20 @@
-### Hi there 👋
+# 🐱‍👤 Vinicius Coelho
 
-<!--
-**vini-coelho/vini-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** at [Procter & Gamble](https://github.com/procter-gamble)
 
-Here are some ideas to get you started:
+[![YouTube Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinicius.coelhoo)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciustcoelho)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## About me
+
+<ul>
+    <li> 📍 I'm from Manaus, Brazil.</li>
+    <li> 🌐 I speak English, French, Portuguese and Spanish.</li>
+  </ul>
+
+## Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-coelho&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=bf94ff&icon_color=bf94ff&text_color=FFFFFF&bg_color=0,222222,111111" alt="vini-coelho's Github Stats">
+
