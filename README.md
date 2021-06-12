@@ -5,8 +5,6 @@ I'm a Mobile **Software Engineer** at [Procter & Gamble](https://github.com/proc
 [![YouTube Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinicius.coelhoo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciustcoelho)
 
-<br>
-
 ## About me:
 
 <ul>
@@ -16,8 +14,6 @@ I'm a Mobile **Software Engineer** at [Procter & Gamble](https://github.com/proc
     <li> 🐱 I have four cats.</li>
 </ul>
 
-<br>
-
 ## My favorite techs:
 
 ![REACT](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
@@ -26,7 +22,5 @@ I'm a Mobile **Software Engineer** at [Procter & Gamble](https://github.com/proc
 ![EXPRESS.JS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)&nbsp;
 ![REDUX](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caduxl007&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caduxl007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini-coelho&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/caduxl007/github-readme-stats)
 
