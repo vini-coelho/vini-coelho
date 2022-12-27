@@ -9,9 +9,9 @@ I'm a Mobile **Software Engineer** at [Procter & Gamble](https://github.com/proc
 
 <ul>
     <li> 📍 I'm from Manaus, Brazil.</li>
-    <li> 📚 I study Electrical Engineering.</li>
+    <li> 📚 I an Electrical Engineer.</li>
     <li> 🌐 I speak English, French, Portuguese and Spanish.</li>
-    <li> 🐱 I have four cats.</li>
+    <li> 🐱 I have two cats.</li>
 </ul>
 
 ## My favourite techs:
