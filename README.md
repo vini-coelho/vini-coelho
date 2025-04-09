@@ -11,7 +11,8 @@ I'm a Mobile **Software Engineer** at [Procter & Gamble](https://github.com/proc
     <li> 📍 I'm from Manaus, Brazil.</li>
     <li> 📚 I an Electrical Engineer.</li>
     <li> 🌐 I speak English, French, Portuguese and Spanish.</li>
-    <li> 🐱 I have two cats.</li>
+    <li> 🏄‍♂️ Hobbyist Surfer. </li>
+    <li> 🥋 Brazilian Jiu Jitsu Blue Belt. </li>
 </ul>
 
 ## My favourite techs:
