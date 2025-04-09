@@ -8,8 +8,8 @@ I'm a Mobile **Software Engineer** at [Procter & Gamble](https://github.com/proc
 ## About me:
 
 <ul>
-    <li> 📍 I'm from Manaus, Brazil.</li>
-    <li> 📚 I an Electrical Engineer.</li>
+    <li> 📍 I'm from Manaus, Amazonas - Brazil.</li>
+    <li> 📚 I'm an Electrical Engineer.</li>
     <li> 🌐 I speak English, French, Portuguese and Spanish.</li>
     <li> 🏄‍♂️ Hobbyist Surfer. </li>
     <li> 🥋 Brazilian Jiu Jitsu Blue Belt. </li>
